@@ -3,6 +3,8 @@
 # X-Codec-2.0
 Paper: LLaSA: Scaling Train-time and Inference-time Compute for LLaMA-based Speech Synthesis  
 
+**Update (2026-06-25):** Xcodec2 has been added to Transformers! A Transformers-native checkpoint can be found been [here](https://huggingface.co/HKUSTAudio/xcodec2-hf)!
+
 **Update (2025-02-13):** Add [Llasa finetune instruction](https://github.com/zhenye234/LLaSA_training/tree/main/finetune).
 
 **Update (2025-02-07):** Our paper has been released!
